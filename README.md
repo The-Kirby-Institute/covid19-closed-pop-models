@@ -17,7 +17,7 @@ The aim of the model is track an outbreak of COVID-19 in a prison setting and th
 
 ### Summary of the model 
 
-The model is a simple compartmental deterministic model of CoV-SARS-2 transmission and COVID-19 progression within a prison setting. It includes inmates, correctional staff, health care staff, and family visitors. It is designed to be flexible and to compare intervention scenarios. Specific interventions incorporated include reductions in population size, effects social distancing, quarantine at reception, isolation of inmates in cohorts, PPE, screening of staff and visitors. 
+The model is a simple compartmental deterministic model of CoV-SARS-2 transmission and COVID-19 progression within a prison setting. It includes inmates, correctional staff, health care staff, non-essential visitors, and family visitors. It is designed to be flexible and to compare intervention scenarios. Specific interventions incorporated include reductions in population size, effects social distancing, quarantine at reception, isolation of inmates in cohorts, PPE, screening of staff and visitors. 
 
 ### Other contributors to the prisons modelling project
 

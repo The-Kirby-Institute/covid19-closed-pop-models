@@ -1,5 +1,7 @@
 # covid19-closed-pop-models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3825970.svg)](https://doi.org/10.5281/zenodo.3825970)
+
 This project repository is for models of COVID-19 in closed population settings developed by researchers at the [_The Kirby Institute_](https://kirby.unsw.edu.au/). It currently only contains a spreadsheet model of CoV-SARS-2 transmission within prison settings and the subsequent impact of COVID-19. Further models and tools for other closed population settings are in development.
 
 ## Maintainers and developers

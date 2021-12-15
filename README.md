@@ -13,7 +13,7 @@ This project repository is for models of COVID-19 in closed population settings 
 
 ## COVID-19 Incarceration Model
 
-The model of COVID-19 in correctional facilities is contained in the Microsoft Excel spreadsheet `COVID-19_Incarceration_Model-v2.1.xlsx`. This spreadsheet model builds on the spreadsheet developed by [Recidiviz](https://www.recidiviz.org/) (original spreadsheet model available [here](https://github.com/Recidiviz/covid19-dashboard)). It was developed with funding from [Corrective Services NSW](https://www.correctiveservices.justice.nsw.gov.au/) and [Justice Health and Forensic Mental Health Network](https://www.justicehealth.nsw.gov.au/). 
+The model of COVID-19 in correctional facilities is contained in the Microsoft Excel spreadsheet `COVID-19_Incarceration_Model-v2.2.xlsx`. This spreadsheet model builds on the spreadsheet developed by [Recidiviz](https://www.recidiviz.org/) (original spreadsheet model available [here](https://github.com/Recidiviz/covid19-dashboard)). It was developed with funding from [Corrective Services NSW](https://www.correctiveservices.justice.nsw.gov.au/) and [Justice Health and Forensic Mental Health Network](https://www.justicehealth.nsw.gov.au/). 
 
 The current version of the COVID-19 Incarceration Model is [version 2.2](https://github.com/The-Kirby-Institute/covid19-closed-pop-models/releases/tag/v2.2) which is an upgrade from the version used in the Advancing Corrections publication (see below for details). In particular, version 2.2 improves the approach used to model vaccination to account for sterilizing immunity.
 
